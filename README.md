@@ -72,7 +72,13 @@ python -m http.server
 ```
 
 ---
+## 📱 Mobile View
 
+<p align="center">
+  <img src="https://github.com/DevByJash/TerraQuest/blob/main/assets/Mobile-View.jpg" alt="Mobile View Screenshot">
+</p>
+
+---
 ## 🎯 Purpose
 
 This project is created purely for **portfolio and showcase purposes** to demonstrate frontend development skills and UI/UX capabilities.
