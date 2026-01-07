@@ -75,7 +75,7 @@ python -m http.server
 ## 📱 Mobile View
 
 <p align="center">
-  <img src="https://github.com/DevByJash/TerraQuest/blob/main/assets/Mobile-View.jpg" alt="Mobile View Screenshot">
+  <img src="https://github.com/DevByJash/TerraQuest/blob/main/assets/Web-View.jpg" alt="Mobile View Screenshot">
 </p>
 
 ---
