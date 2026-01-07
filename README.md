@@ -60,7 +60,7 @@ This project demonstrates:
 Clone the repository and run it using a local server:
 
 ```bash
-git clone https://github.com/your-username/terraquest.git
+git clone https://github.com/DevByJash/TerraQuest.git
 cd terraquest
 npx serve
 ```
